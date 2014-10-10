@@ -1,6 +1,5 @@
 rstudio_test1_101014
 ====================
-
-#Test w. nahum 
+Test w. Josh Nahum 
 
 Hello world!
